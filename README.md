@@ -1,5 +1,4 @@
-# simple-tensorflowjs
-
+# Drug Affect Precitor Using Tensorflowjs
 
 ### Steps
 - clone this repository
